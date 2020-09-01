@@ -1,0 +1,46 @@
+.agileits-top p {
+    font-size: 1em;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.agileits-top p a {
+    color: #fff;
+	-webkit-transition: .5s all;
+	-moz-transition: .5s all;
+    transition: .5s all;
+}
+.agileits-top p a:hover{
+    color: #FFC107; 
+}
+.wthree-text {
+    margin-top: 3em;
+}
+.wthree-text ul li {
+    display: inline-block;
+    float: left;
+}
+.wthree-text ul li:nth-child(2) {
+    float: right;
+}
+.wthree-text ul li a {
+    font-size: 1em;
+    color: #fff;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+.wthree-text ul li a:hover{ 
+    color: #FFC107;
+}
+/*-- //main --*/
+/*-- checkbox --*/
+.wthree-text label {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 400;
+    cursor: pointer;
+    position: relative;
+}

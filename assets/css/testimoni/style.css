@@ -1,0 +1,135 @@
+/* A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+ */
+
+.clients {
+	margin-top:5%;
+}
+.clients h2{
+	text-align:center;
+	color:#c8d8d7;
+	background:#FFF;
+	padding:20px 0 30px 0;
+	margin:0;
+	border-radius:0px 0px 50px 50px;
+	-webkit-border-radius:0px 0px 50px 50px;
+	-moz-border-radius:0px 0px 50px 50px;
+	-o-border-radius:0px 0px 50px 50px;
+}
+.testimonials{
+	background:#f28858;
+	padding:1.5% 0;
+}
+.testimonials h3{
+	font-size:16px;
+	color:#FFF;
+	font-weight:600;
+	text-transform:uppercase;
+	margin:15px 0;
+}
+.testimonials p{
+	color:#f3ddd4;
+	font-size:13px;
+	font-style:italic;
+	line-height:1.8em;
+	width:80%;
+	margin:0 auto;
+}
+.testimonials-news{
+	background:#f28858;
+}
+.news{
+	padding:5% 0;
+	background:#FFF;
+	border-radius:50px 50px 0px 0px;
+	-webkit-border-radius:50px 50px 0px 0px;
+	-moz-border-radius:50px 50px 0px 0px;
+	-o-border-radius:50px 50px 0px 0px;
+}
+.news-grid{
+	background:#FFF;
+	border:1px solid #f2f2f2;
+	width:32%;
+	padding:0;
+	text-align:center;
+	border-bottom:4px solid #e0e0e0;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	-moz-border-radius:10px;
+	float:left;
+}
+.news-grid img{
+	max-width:100%;
+	display:block;
+	width:100%;
+	border-radius:10px 10px 0px 0px;
+	-webkit-border-radius:10px 10px 0px 0px;
+	-moz-border-radius:10px 10px 0px 0px;
+	-o-border-radius:10px 10px 0px 0px;
+}
+.news-grid-middle{
+ margin:0 2%;	
+}
+.news-grid h2{
+	margin:25px 0 10px 0;
+	font-size:20px;
+}
+.news-grid p{
+	font-size:13px;
+	color:#7f8c8c;
+	line-height:1.6em;
+}
+.news-grid a.read-more{
+	font-size:12px;
+	color:#77a1a0;
+	font-style:italic;
+	margin:15px 0;
+	display:inline-block;
+	text-transform:lowercase;
+	font-weight:600;
+}
+.news-desc-bottom p{
+	color:#9a9a9a;
+	font-size:11px;
+	font-style:italic;
+}
+.news-desc-bottom p.left{
+	float:left;
+}
+.news-desc-bottom p.right{
+	float:right;
+}
+.news-desc{
+	padding:5%;
+	position:relative;
+}
+.news-desc-bottom{
+	border-top:1px solid #f2f2f2;
+	padding-top:15px;
+}
+.image-icon{
+	position:absolute;
+	left:43%;
+	top:-12px;
+}
+.image-icon span{
+	padding:15px;
+	background:#77a1a0;
+	border-radius:2em;
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	-o-border-radius:2em;
+}
+.image-icon span i{
+	vertical-align:middle;
+	color:#FFF;
+	font-size:23px;
+}
+
+
+
+
